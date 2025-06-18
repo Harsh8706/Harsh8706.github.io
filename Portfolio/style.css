@@ -1,0 +1,25 @@
+.header{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.nav{
+    display: flex;
+    color: yellowgreen;
+    margin-left: 700px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    margin-right: 1000px;
+    margin-top: 50px;
+    height: 170px;
+}
+.services{
+    display: flex;
+    justify-content: center;
+    margin-right: 1000px;
+    margin-top: 50px;
+    height: 170px;
+}
